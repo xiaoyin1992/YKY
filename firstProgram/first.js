@@ -7,3 +7,8 @@ function b(){
 function c(){
 	console.log()
 }
+function d(){
+        alert(1)
+}else{
+        alert(2)
+}
